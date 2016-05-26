@@ -1,2 +1,3 @@
 # GPAE
-Gaussian process auto-encoder
+
+Code accompanying Simon Olofsson's Master's thesis.
